@@ -8,5 +8,5 @@ To get the FQDN of the Exchange Server, run this command on Exchange Management 
 
 $o = Get-MailboxServer ([System.Net.Dns]::GetHostByName($o)).HostName 
 
-After getting the FQDN, replaced it with http://<ServerFQDN>/PowerShell/, and successfully connected.
+After getting the FQDN, replace it with http://<ServerFQDN>/PowerShell/, and successfully connected.
 
