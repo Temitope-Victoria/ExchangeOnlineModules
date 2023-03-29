@@ -5,3 +5,7 @@ Set-ExecutionPolicy RemoteSigned
 Install-Module -Name ExchangeOnlineManagement 
 
 Connect-ExchangeOnline
+
+Install-Module Msonline 
+
+Connect-MSolservice 
