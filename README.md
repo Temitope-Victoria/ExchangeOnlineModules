@@ -10,4 +10,6 @@ Exchange Online account
 
 # Resources
 
-https://learn.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps
+<a href="[https://github.com/Murad9288](https://learn.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps
+)" target="_blank"> Connect to Exchange Online </a>
+
